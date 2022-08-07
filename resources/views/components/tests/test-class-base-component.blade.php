@@ -3,4 +3,6 @@
     クラスベースのコンポーネント
     <div>{{ $classBaseMessage }}</div>
     <div>{{ $defaultMessage }}</div>
+    <div>{{ $slot }}</div>
+    <div>{{ $header }}</div>
 </div>
